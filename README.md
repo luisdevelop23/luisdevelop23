@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software developer passionate about constant learning, originally from Peru
+Software Developer passionate about continuous learning and building scalable, efficient applications. Experienced in full-stack development with a focus on modern web technologies. Based in Peru, always eager to explore new challenges and improve development workflows.
 
 
 ## 🌐 Socials:
